@@ -214,9 +214,14 @@ p{
   margin-top: 30px;
   padding: 20px;
   background-color: rgb(207, 180, 186);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .follow img{
   padding-top: 10px;
+  margin-left: 40px;
+
 }
 
 /* .box{
